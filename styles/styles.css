@@ -21,7 +21,8 @@
 
   /* fonts */
   --body-font-family: 'helvetica neue', helvetica, ubuntu, roboto, noto, sans-serif;
-  --heading-font-family: var(--body-font-family);
+/*  --heading-font-family: var(--body-font-family); */
+  --heading-font-family: 'Source Serif', georgia, serif;
   --fixed-font-family: 'Roboto Mono', menlo, consolas, 'Liberation Mono', monospace;
 
   /* body sizes */
